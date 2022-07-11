@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.455b9e2a-fc60-11ec-b637-50e085520854.jpg</filename>
+	<path>D:\MP\TFOD\TensorFlow\workspace\images\collectedimages\hello.455b9e2a-fc60-11ec-b637-50e085520854.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>234</ymin>
+			<xmax>546</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

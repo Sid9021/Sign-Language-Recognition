@@ -1,0 +1,28 @@
+item { 
+	name:'thumbsup'
+	id:1
+}
+item { 
+	name:'thumbsdown'
+	id:2
+}
+item { 
+	name:'thankyou'
+	id:3
+}
+item { 
+	name:'hello'
+	id:4
+}
+item { 
+	name:'iloveyou'
+	id:5
+}
+item { 
+	name:'yes'
+	id:6
+}
+item { 
+	name:'friend'
+	id:7
+}
