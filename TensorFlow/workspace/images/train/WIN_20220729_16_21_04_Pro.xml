@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>WIN_20220729_16_21_04_Pro.jpg</filename>
+	<path>D:\Mini Project\collectedimages\yes\WIN_20220729_16_21_04_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>65</ymin>
+			<xmax>905</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
